@@ -1,12 +1,12 @@
 $name : ItsADnDMonsterNow
 $author : Nyhilo
-$description : Attempts to give a fully stated monster using data pulled from https://drive.google.com/file/d/0B1RXFr7uOdUjVGp1QndTUTZqelU/view. Current Progress: Early name generation.
+$description : Attempts to give a fully stated monster using data pulled from https://drive.google.com/file/d/0B1RXFr7uOdUjVGp1QndTUTZqelU/view.
 $picture : 
 $amount : 1
 $button : You encounter...
 
 $monsterName
-[descriptor] [creature]
+[an] [descriptor] [creature]
 [title] of [creature][s]
 [madeupname], [title] of [[creature][s] | [[theCreature] | [theCreature][s]]]
 [madeupname]
@@ -48,3 +48,6 @@ wolf
 forest
 tree
 [creature]
+
+$itsadndmonsternow
+You encounter... [monsterName]
