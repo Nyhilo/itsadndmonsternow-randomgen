@@ -1,0 +1,50 @@
+$name : ItsADnDMonsterNow
+$author : Nyhilo
+$description : Attempts to give a fully stated monster using data pulled from https://drive.google.com/file/d/0B1RXFr7uOdUjVGp1QndTUTZqelU/view. Current Progress: Early name generation.
+$picture : 
+$amount : 1
+$button : You encounter...
+
+$monsterName
+[descriptor] [creature]
+[title] of [creature][s]
+[madeupname], [title] of [[creature][s] | [[theCreature] | [theCreature][s]]]
+[madeupname]
+
+$descriptor
+black
+red
+awakened
+arcane
+
+$creature
+bear
+octopus
+ember
+spirit
+
+$title
+Acolyte
+Druid
+King
+Protector
+
+$madeupname
+[namepart1][namepart2]
+jerry {20%}
+
+$namepart1
+jer
+jim
+joe
+
+$namepart2
+ry
+my
+y
+
+$theCreature
+wolf
+forest
+tree
+[creature]
